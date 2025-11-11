@@ -1,6 +1,3 @@
-Ecco il contenuto grezzo in formato Markdown per il file `docs/GUIDA.md`.
-
-```text
 # 📒 Guida all'Utilizzo di Quadernino
 
 Quadernino è diviso in tre sezioni principali, accessibili dalla barra laterale.
