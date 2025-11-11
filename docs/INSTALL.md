@@ -19,11 +19,12 @@ cd Quadernino
 
 Passo 2: Esegui lo script di installazione
 Lo script rileva automaticamente il tuo sistema operativo.
-```bash
  * Su Linux/macOS:
+```bash
    python3 install.py
-
+```
  * Su Windows:
+```bash
    python install.py
 ```
 Cosa fa lo script install.py:
