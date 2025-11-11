@@ -35,7 +35,7 @@ Quadernino adotta un approccio "Tutto Google" per il backend, delegando il lavor
 
 * **Interfaccia Utente:** [Streamlit](https://streamlit.io)
 * **Modello LLM:** [Google Gemini (es. 2.5-Pro / 2.5-Flash)](https://ai.google.com/gemini/)
-* **Backend RAG / Vector Store:** [**Google File Search API**](https://ai.google.dev/docs/file_search) (Nessun database vettoriale locale, tutto gestito server-side da Google).
+* **Backend RAG / Vector Store:** [**Google File Search API**](https://ai.google.dev/gemini-api/docs/file-search?hl=it) (Nessun database vettoriale locale, tutto gestito server-side da Google).
 * **Persistenza Stato:** File `.env` locale.
 
 ## 📖 Documentazione
